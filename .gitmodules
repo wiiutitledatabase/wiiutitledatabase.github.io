@@ -1,0 +1,3 @@
+[submodule "website/themes/shadocs"]
+	path = website/themes/shadocs
+	url = https://github.com/jgazeau/shadocs.git
